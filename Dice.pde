@@ -15,6 +15,7 @@ void draw()
     }
   }
   textAlign(CENTER);
+  textSize(20); 
   stroke(0, 0, 200);
   fill(173, 216, 230);
   text("The total sum of all the dice: " + Integer.valueOf(diceTotalValue), 300, 580);
