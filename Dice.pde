@@ -1,4 +1,4 @@
-int diceTotalValue;
+int diceTotalValue = 0;
 void setup()
 {
   size(600, 600);
