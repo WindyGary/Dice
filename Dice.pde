@@ -14,7 +14,6 @@ void draw()
       bob.roll();
     }
   }
-  String value = Integer.toString(diceTotalValue);
   textAlign(CENTER);
   textSize(20); 
   stroke(0, 0, 200);
