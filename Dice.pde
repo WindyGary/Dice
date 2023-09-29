@@ -19,7 +19,7 @@ void draw()
   textSize(20); 
   stroke(0, 0, 200);
   fill(173, 216, 230);
-  text("The total sum of all the dice: " + value , 300, 580);
+  text("The total sum of all the dice: " + diceTotalValue , 300, 580);
   diceTotalValue = 0;
 }
 void mousePressed()
