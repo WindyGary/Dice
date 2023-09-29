@@ -1,5 +1,4 @@
 int diceTotalValue = 0;
-String totalValue = Integer.valueOf(diceTotalValue);
 void setup()
 {
   size(600, 600);
